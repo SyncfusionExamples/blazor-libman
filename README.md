@@ -1,4 +1,4 @@
-# How to use LibMan with ASP.NET Core application?
+# How to use LibMan with Blazor application?
 
 This sample explains how to use the Library Manager (LibMan) with a Blazor application in Visual Studio.
 
