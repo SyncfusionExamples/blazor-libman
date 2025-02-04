@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.33213.308
+VisualStudioVersion = 17.13.35507.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor-libman", "blazor-libman\blazor-libman.csproj", "{A9B5919B-FE90-4976-BF01-4A5056F5C064}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor-libman", "blazor-libman\blazor-libman.csproj", "{DDA3476D-094E-413D-AB96-7D7CA7E16021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9B5919B-FE90-4976-BF01-4A5056F5C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9B5919B-FE90-4976-BF01-4A5056F5C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9B5919B-FE90-4976-BF01-4A5056F5C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9B5919B-FE90-4976-BF01-4A5056F5C064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA3476D-094E-413D-AB96-7D7CA7E16021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA3476D-094E-413D-AB96-7D7CA7E16021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA3476D-094E-413D-AB96-7D7CA7E16021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA3476D-094E-413D-AB96-7D7CA7E16021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DDFE8954-3A7E-446A-81A4-672F32E4D1C7}
+		SolutionGuid = {1907E0C9-169D-46F8-9472-FAEA5DE9444E}
 	EndGlobalSection
 EndGlobal
