@@ -1,9 +1,9 @@
 {
-  "version": "1.0",
+  "version": "3.0",
   "defaultProvider": "unpkg",
   "libraries": [
     {
-      "library": "@syncfusion/blazor-themes@20.4.52",
+      "library": "@syncfusion/blazor-themes@28.2.3",
       "destination": "wwwroot/themes/syncfusion/blazor-themes/",
       "files": [
         "SCSS-Themes/bootstrap5.scss"
