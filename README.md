@@ -1,13 +1,13 @@
 # Blazor with LibMan
 
-This sample demonstrates how to effectively use the [Library Manager (LibMan)](https://learn.microsoft.com/aspnet/core/client-side/libman) to manage client-side dependencies in a modern Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application. LibMan provides a lightweight alternative to npm for managing libraries like Bootstrap, Syncfusion themes, and other client-side assets directly within Visual Studio.
+This sample demonstrates how to effectively use the [Library Manager (LibMan)](https://learn.microsoft.com/aspnet/core/client-side/libman) to manage client-side dependencies in a modern Blazor application. LibMan provides a lightweight alternative to npm for managing libraries like Bootstrap, Syncfusion themes, and other client-side assets directly within Visual Studio.
 
 Whether you're new to Blazor or looking to simplify your library management workflow, this project shows best practices for integrating LibMan with Blazor's component-based architecture.
 
 ## Features
 
 - **LibMan Integration** - Efficient client-side library management without node_modules
-- **Syncfusion Theme Support** - Pre-configured Bootstrap 5 themes for UI components
+- **Theme Support** - Pre-configured Bootstrap 5 themes for UI components
 - **Razor Components** - Modern interactive server-side rendering with Blazor
 - **Responsive Layout** - Built-in navigation and layout components
 - **Development-Optimized** - Hot reload and debugging support
